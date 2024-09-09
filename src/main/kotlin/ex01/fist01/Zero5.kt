@@ -1,4 +1,4 @@
-package ex01
+package ex01.fist01
 
 // Nullable 변수
 // 코틀린에선 기본적으로 모든 변수는 널이 될 수 없음

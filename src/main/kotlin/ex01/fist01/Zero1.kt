@@ -1,4 +1,4 @@
-package ex01
+package ex01.fist01
 
 fun main() {
     // 변수와 상수 선언의 차이

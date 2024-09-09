@@ -1,4 +1,4 @@
-package ex01
+package ex01.fist01
 
 // 코틀린에서 상수는 const val로 선언할 수 있음
 // 상수는 컴파일 타임에 할당됨

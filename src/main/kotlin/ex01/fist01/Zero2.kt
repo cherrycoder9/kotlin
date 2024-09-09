@@ -1,4 +1,4 @@
-package ex01
+package ex01.fist01
 
 // 늦은 초기화 (Lateinit)
 // var 키워드로 선언된 변수를 나중에 초기화하려면 lateinit 키워드 사용
